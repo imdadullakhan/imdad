@@ -7,6 +7,8 @@ public class Tset {
 		
 		System.out.println(" add the project");
 		System.out.println(" another class is added ");
+		System.out.println(" add the project");
+		System.out.println(" another class is added ");
 
 	}
 
