@@ -6,7 +6,7 @@ public class Tset {
 		// TODO Auto-generated method stub
 		
 		System.out.println(" add the project");
-		System.out.println(" another class is added ");
+		System.out.println(" another class  ");
 	
 
 	}
